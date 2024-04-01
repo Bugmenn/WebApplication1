@@ -1,3 +1,5 @@
+// É o arquivo de contexto de banco de dados, sendo a classe principal que coordena
+// a funcionalidade do Entity Framework para um modelo de dados.
 // Essa classe é criada derivando-a da classe Microsoft.EntityFrameworkCore.DbContext
 
 using Microsoft.EntityFrameworkCore;
